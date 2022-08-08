@@ -1,3 +1,3 @@
 # wordCounter
 
-JS練習用アプリ　１
+JS練習用アプリ　No.１
